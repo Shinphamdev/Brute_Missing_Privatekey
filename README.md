@@ -1,5 +1,5 @@
 # Brute_Missing_Privatekey
-The Privatekey Missing Recovery Tool is written in python to help users recover the missing bitcoin privatekey between 1 and 6 characters in the safest way.
+The Privatekey Missing Recovery Tool is written in python to help users recover the missing bitcoin privatekey between 1 and 5 characters in the safest way.
 Bitcoin missing privatekey brute force written in Python with simplicity and speed in mind
 
 ## Functions
