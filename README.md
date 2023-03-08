@@ -71,6 +71,8 @@ Privatekey Missing  6 characters : KwD**f89QgGbjEhKnhXJuH**rhcVkatbczm7Y9ZaB56U1
   ## Result
   
   The above wallet address I am using the privatekey of the Bitcoin 115 puzzle so that is just an example
+  When a valid private is found and matches the wallet address
+  It will automatically save and balance.txt
   Private key :
   ```bash
   KwDiBf89QgGbjEhKnhXJuH7LrhcVkatbczm7Y9ZaB56U1jLNU2Xh
